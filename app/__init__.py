@@ -1,0 +1,1 @@
+"""Sber vacancy watcher application."""
